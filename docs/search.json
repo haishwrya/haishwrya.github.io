@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "temp_website",
+    "title": "Welcome",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hello, I’m Aishwarya!\nI’m a first-year student with a passion for technology, learning, and creativity.\nThis website is a collection of my projects, experiences, and reflections. Feel free to explore!\n\n“Strive not to be a success, but rather to be of value.” – Albert Einstein"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,117 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "travel.html",
+    "href": "travel.html",
+    "title": "Travel Experience",
+    "section": "",
+    "text": "In 2024, I visited two iconic Australian cities: Melbourne and Sydney. Each place offered a unique blend of culture, food, scenery, and memorable moments.\n\n\n\n\n\nMelbourne’s laneways are filled with colorful street art, hidden cafes, and local boutiques.\n\nExplored Hosier Lane, famous for ever-changing murals\nVisited NGV (National Gallery of Victoria) for free exhibitions\nTook a stroll through Fitzroy, Melbourne’s artsy neighborhood\nTook a Day trip to Great Ocean Road which was an amazing experience \n\n\n\n\nI discovered various cafes in Melb and it did not disappoint!\n\n“I’ve never had a bad coffee in Melbourne.”\n\n\n\n\n\n\n\n\nWalked across the Sydney Harbour Bridge\nTook photos of the Sydney Opera House from every angle\nFerry ride to Manly Beach with amazing views of the harbour\n\n\n\n\nSydney Harbour\n\n\n\n\n\n\nSpent a sunny day at Bondi Beach\nWalked the famous Bondi to Coogee coastal trail\n\n\n\n\n\n\nAustralians are incredibly friendly and chill.\nPublic transport in both cities was clean and easy to use.\nHaving a driver’s license is a plus! &gt; “Traveling to Australia made me appreciate both urban life and natural beauty. I learned how to slow down and enjoy each moment.”\n\n\n\n\n\n\nVisit Melbourne\nVisit Sydney\nGreat Ocean Road Guide\nOpal Card for Sydney Transport\n\n\n\n\n\nGreat Ocean Road"
+  },
+  {
+    "objectID": "travel.html#melbourne-highlights",
+    "href": "travel.html#melbourne-highlights",
+    "title": "Travel Experience",
+    "section": "",
+    "text": "Melbourne’s laneways are filled with colorful street art, hidden cafes, and local boutiques.\n\nExplored Hosier Lane, famous for ever-changing murals\nVisited NGV (National Gallery of Victoria) for free exhibitions\nTook a stroll through Fitzroy, Melbourne’s artsy neighborhood\nTook a Day trip to Great Ocean Road which was an amazing experience \n\n\n\n\nI discovered various cafes in Melb and it did not disappoint!\n\n“I’ve never had a bad coffee in Melbourne.”"
+  },
+  {
+    "objectID": "travel.html#sydney-highlights",
+    "href": "travel.html#sydney-highlights",
+    "title": "Travel Experience",
+    "section": "",
+    "text": "Walked across the Sydney Harbour Bridge\nTook photos of the Sydney Opera House from every angle\nFerry ride to Manly Beach with amazing views of the harbour\n\n\n\n\nSydney Harbour\n\n\n\n\n\n\nSpent a sunny day at Bondi Beach\nWalked the famous Bondi to Coogee coastal trail"
+  },
+  {
+    "objectID": "travel.html#travel-takeaways",
+    "href": "travel.html#travel-takeaways",
+    "title": "Travel Experience",
+    "section": "",
+    "text": "Australians are incredibly friendly and chill.\nPublic transport in both cities was clean and easy to use.\nHaving a driver’s license is a plus! &gt; “Traveling to Australia made me appreciate both urban life and natural beauty. I learned how to slow down and enjoy each moment.”"
+  },
+  {
+    "objectID": "travel.html#helpful-links",
+    "href": "travel.html#helpful-links",
+    "title": "Travel Experience",
+    "section": "",
+    "text": "Visit Melbourne\nVisit Sydney\nGreat Ocean Road Guide\nOpal Card for Sydney Transport\n\n\n\n\n\nGreat Ocean Road"
+  },
+  {
+    "objectID": "Final Year Project.html",
+    "href": "Final Year Project.html",
+    "title": "FYP Project",
+    "section": "",
+    "text": "The objectives of my FYP were to find out how different factors in the healthcare system play a key role in affecting the overall patient journey\n\n\n\n\nSQLite database for logs\nTableau Real-time Dashboard\n\n\n\n\n\nPython\nSQLite"
+  },
+  {
+    "objectID": "Final Year Project.html#overview",
+    "href": "Final Year Project.html#overview",
+    "title": "FYP Project",
+    "section": "",
+    "text": "The objectives of my FYP were to find out how different factors in the healthcare system play a key role in affecting the overall patient journey"
+  },
+  {
+    "objectID": "Final Year Project.html#key-features",
+    "href": "Final Year Project.html#key-features",
+    "title": "FYP Project",
+    "section": "",
+    "text": "SQLite database for logs\nTableau Real-time Dashboard"
+  },
+  {
+    "objectID": "Final Year Project.html#technologies-used",
+    "href": "Final Year Project.html#technologies-used",
+    "title": "FYP Project",
+    "section": "",
+    "text": "Python\nSQLite"
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "I used ChatGPT (OpenAI) for the development of this Quarto website.\n\n\n\n\nEasy to access\nGood understanding of RStudio and Quarto\nProvides markdown-friendly guidance\n\n\n\n\n\nHelped me structure _quarto.yml and markdown files\nSuggested how to use navigation bar and themes\nGuided me in writing cleaner CSS and YAML configs\n\n\n\n\n\nSaves time\nReduces trial and error\nImproves learning by giving clear explanations\n\n\n\n\n\nSometimes gives too much detail or code that needs adjusting\nCannot see my live file system, so I need to interpret its guidance\n\n\n\n\nI plan to use GenAI tools to: - Draft reports and proposals - Learn new languages or tools - Debug code"
+  },
+  {
+    "objectID": "reflection.html#tool-used",
+    "href": "reflection.html#tool-used",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "I used ChatGPT (OpenAI) for the development of this Quarto website."
+  },
+  {
+    "objectID": "reflection.html#why-i-chose-it",
+    "href": "reflection.html#why-i-chose-it",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "Easy to access\nGood understanding of RStudio and Quarto\nProvides markdown-friendly guidance"
+  },
+  {
+    "objectID": "reflection.html#how-it-helped",
+    "href": "reflection.html#how-it-helped",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "Helped me structure _quarto.yml and markdown files\nSuggested how to use navigation bar and themes\nGuided me in writing cleaner CSS and YAML configs"
+  },
+  {
+    "objectID": "reflection.html#benefits",
+    "href": "reflection.html#benefits",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "Saves time\nReduces trial and error\nImproves learning by giving clear explanations"
+  },
+  {
+    "objectID": "reflection.html#challenges",
+    "href": "reflection.html#challenges",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "Sometimes gives too much detail or code that needs adjusting\nCannot see my live file system, so I need to interpret its guidance"
+  },
+  {
+    "objectID": "reflection.html#future-use",
+    "href": "reflection.html#future-use",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "I plan to use GenAI tools to: - Draft reports and proposals - Learn new languages or tools - Debug code"
   }
 ]
