@@ -1,11 +1,12 @@
 ---
-title: "temp_website"
+title: "Welcome"
+format: html
 ---
 
-This is a Quarto website.
+# Hello, I’m Aishwarya!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I’m a first-year student with a passion for technology, learning, and creativity.  
+This website is a collection of my projects, experiences, and reflections. Feel free to explore!
 
-```{r}
-1 + 1
-```
+> “Strive not to be a success, but rather to be of value.” – Albert Einstein
+

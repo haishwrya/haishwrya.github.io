@@ -1,0 +1,17 @@
+---
+title: "FYP Project"
+format: html
+---
+
+# Final Year Project: Patient Journey in Healthcare System
+
+## Overview
+The objectives of my FYP were to find out how different factors in the healthcare system play a key role in affecting the overall patient journey 
+
+## Key Features
+- SQLite database for logs
+- Tableau Real-time Dashboard
+
+## Technologies Used
+- Python
+- SQLite

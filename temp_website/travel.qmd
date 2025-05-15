@@ -1,0 +1,64 @@
+---
+title: "Travel Experience"
+format: html
+---
+
+# My Travel Experience: Melbourne & Sydney 🇦🇺
+
+In 2024, I visited two iconic Australian cities: **Melbourne** and **Sydney**. Each place offered a unique blend of culture, food, scenery, and memorable moments.
+
+---
+
+## 🐨 Melbourne Highlights
+
+### 🎨 Street Art & Culture
+
+Melbourne's laneways are filled with colorful street art, hidden cafes, and local boutiques.
+
+- Explored **Hosier Lane**, famous for ever-changing murals
+- Visited **NGV (National Gallery of Victoria)** for free exhibitions
+- Took a stroll through **Fitzroy**, Melbourne’s artsy neighborhood
+- Took a Day trip to **Great Ocean Road** which was an amazing experience
+![Melbourne](melb.jpg)
+
+### ☕ Café Culture
+
+I discovered various cafes in Melb and it did not disappoint!
+
+> “I’ve never had a bad coffee in Melbourne.”
+
+## 🌉 Sydney Highlights
+
+### 🏙️ Iconic Landmarks
+
+- Walked across the **Sydney Harbour Bridge**
+- Took photos of the **Sydney Opera House** from every angle
+- Ferry ride to **Manly Beach** with amazing views of the harbour
+
+![Sydney Harbour](sydney.jpg)
+
+### 🏖️ Beach Vibes
+
+- Spent a sunny day at **Bondi Beach**
+- Walked the famous **Bondi to Coogee coastal trail**
+
+## 🌏 Travel Takeaways
+
+- Australians are incredibly friendly and chill.
+- Public transport in both cities was clean and easy to use.
+- Having a driver's license is a plus!
+> “Traveling to Australia made me appreciate both urban life and natural beauty. I learned how to slow down and enjoy each moment.”
+
+---
+
+## 🔗 Helpful Links
+
+- [Visit Melbourne](https://www.visitmelbourne.com/)
+- [Visit Sydney](https://www.sydney.com/)
+- [Great Ocean Road Guide](https://www.australia.com/en/places/great-ocean-road.html)
+- [Opal Card for Sydney Transport](https://transportnsw.info/tickets-opal/opal)
+
+---
+
+![Great Ocean Road](great-ocean.jpg)
+

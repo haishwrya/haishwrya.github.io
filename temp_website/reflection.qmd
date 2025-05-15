@@ -1,0 +1,37 @@
+---
+title: "Reflection on the use of GenAI"
+format: html
+---
+
+# Reflection on the Use of GenAI
+
+## Tool Used
+I used **ChatGPT (OpenAI)** for the development of this Quarto website.
+
+## Why I Chose It
+- Easy to access
+- Good understanding of RStudio and Quarto
+- Provides markdown-friendly guidance
+
+## How It Helped
+- Helped me structure `_quarto.yml` and markdown files
+- Suggested how to use navigation bar and themes
+- Guided me in writing cleaner CSS and YAML configs
+
+## Benefits
+- Saves time
+- Reduces trial and error
+- Improves learning by giving clear explanations
+
+## Challenges
+- Sometimes gives too much detail or code that needs adjusting
+- Cannot see my live file system, so I need to interpret its guidance
+
+## Future Use
+I plan to use GenAI tools to:
+- Draft reports and proposals
+- Learn new languages or tools
+- Debug code
+
+
+
